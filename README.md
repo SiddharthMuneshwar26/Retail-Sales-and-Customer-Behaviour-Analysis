@@ -1,7 +1,5 @@
 # Retail-Sales-and-Customer-Behaviour-Analysis
 
----
-
 ## Problem Statement 
 
 Retail businesses generate large amounts of transactional data every day; however, without proper analysis, it becomes difficult to identify meaningful patterns and business opportunities hidden within the data. Companies often face challenges in understanding customer purchasing behavior, tracking sales performance, identifying high-value customers, and recognizing early signs of customer inactivity or churn.
@@ -32,37 +30,25 @@ The dataset was cleaned, processed, and analyzed using exploratory data analysis
 
 This analysis focused on identifying the customers who contribute the most to overall business revenue. Customer performance was evaluated using metrics such as total spending, transaction frequency, average order value, and purchasing consistency. By analyzing customer purchasing behavior, the project highlights high-value customers who play a significant role in driving sales and long-term business growth.
 
----
-
 ## Q2: How does customer age and gender influence purchasing behavior?
 
 This section explores how customer demographics affect purchasing habits and spending behavior. Age groups and gender categories were analyzed to identify differences in transaction frequency, product preferences, quantity purchased, and average spending patterns. The goal of this analysis was to better understand customer segments and reveal demographic trends that could support targeted marketing and customer engagement strategies.
-
----
 
 ## Q3: Which product categories drive the most revenue?
 
 This analysis evaluates the sales performance of different product categories to determine which categories generate the highest revenue and transaction volume. Product-level insights were used to identify top-performing categories, customer demand patterns, and purchasing trends. The findings can help businesses prioritize inventory management, product promotion strategies, and category-focused decision-making.
 
----
-
 ## Q4: Monthly trends in sales and transactions
 
 This section examines monthly changes in revenue, customer activity, and transaction volume over time. Time-series analysis was used to identify sales growth patterns, seasonal fluctuations, and periods of high or low customer engagement. Visualizations were created to better understand how business performance changes across different months and how customer purchasing activity evolves over time.
-
----
 
 ## Q5: What are the patterns in purchase quantity per transaction?
 
 This analysis focuses on understanding customer purchasing volume and basket-size behavior. Transaction-level quantity patterns were analyzed to identify how many products customers typically purchase per order and whether larger basket sizes contribute significantly to revenue generation. The analysis also helps uncover customer purchasing habits and overall buying behavior within the retail environment.
 
----
-
 ## Q6: How does pricing affect purchasing behavior?
 
 This section investigates the relationship between product pricing and customer purchasing decisions. The analysis explores how pricing impacts quantity purchased, transaction frequency, and overall revenue generation. By comparing pricing trends with customer purchasing behavior, the project identifies patterns that may indicate price sensitivity, high-demand price ranges, and opportunities for pricing optimization.
-
----
 
 ## Q7: Customer Retention and Activity Analysis
 
