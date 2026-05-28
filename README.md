@@ -58,7 +58,7 @@ A weighted churn risk scoring system was developed to classify customers into lo
 
 ---
 
-# Features of the Project 🚀
+# Features of the Project 
 
 ### Data Cleaning and Preprocessing
 
@@ -94,7 +94,7 @@ Provided data-driven business recommendations to support customer retention, sal
 
 ---
 
-# Technologies Used 🐍
+# Technologies Used 
 
 ### Python
 
