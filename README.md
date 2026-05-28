@@ -40,21 +40,47 @@ The dataset was cleaned, processed, and analyzed using exploratory data analysis
 
 This analysis focused on identifying the customers who contribute the most to overall business revenue. Customer performance was evaluated using metrics such as total spending, transaction frequency, average order value, and purchasing consistency. By analyzing customer purchasing behavior, the project highlights high-value customers who play a significant role in driving sales and long-term business growth.
 
+**Charts:**  
+
+![Q1](./Images/Q1.png)
+
 ## Q2: How does customer age and gender influence purchasing behavior?
 
 This section explores how customer demographics affect purchasing habits and spending behavior. Age groups and gender categories were analyzed to identify differences in transaction frequency, product preferences, quantity purchased, and average spending patterns. The goal of this analysis was to better understand customer segments and reveal demographic trends that could support targeted marketing and customer engagement strategies.
+
+**Charts:**  
+
+![Q2](./Images/Q2A.png)
+![Q2](./Images/Q2B.png)
+![Q2](./Images/Q2C.png)
 
 ## Q3: Which product categories drive the most revenue?
 
 This analysis evaluates the sales performance of different product categories to determine which categories generate the highest revenue and transaction volume. Product-level insights were used to identify top-performing categories, customer demand patterns, and purchasing trends. The findings can help businesses prioritize inventory management, product promotion strategies, and category-focused decision-making.
 
+**Charts:**  
+
+![Q3](./Images/Q3A.png)
+![Q3](./Images/Q3B.png)
+![Q3](./Images/Q3C.png)
+
+
 ## Q4: Monthly trends in sales and transactions
 
 This section examines monthly changes in revenue, customer activity, and transaction volume over time. Time-series analysis was used to identify sales growth patterns, seasonal fluctuations, and periods of high or low customer engagement. Visualizations were created to better understand how business performance changes across different months and how customer purchasing activity evolves over time.
 
+**Charts:**  
+
+![Q4](./Images/Q4A.png)
+![Q4](./Images/Q4B.png)
+
 ## Q5: What are the patterns in purchase quantity per transaction?
 
 This analysis focuses on understanding customer purchasing volume and basket-size behavior. Transaction-level quantity patterns were analyzed to identify how many products customers typically purchase per order and whether larger basket sizes contribute significantly to revenue generation. The analysis also helps uncover customer purchasing habits and overall buying behavior within the retail environment.
+
+**Charts:**  
+
+![Q5](./Images/Q5.png)
 
 ## Q6: How does pricing affect purchasing behavior?
 
@@ -65,6 +91,11 @@ This section investigates the relationship between product pricing and customer 
 This section focuses on identifying customers who may be at risk of becoming inactive using a custom churn risk analysis model. Customer retention behavior was analyzed using multiple behavioral metrics, including recency of purchases, purchase frequency, transaction volume, and spending trends over time.
 
 A weighted churn risk scoring system was developed to classify customers into low-risk, medium-risk, and high-risk segments. The analysis provides insights into customer inactivity patterns, declining engagement, and spending behavior changes. Visualizations and KPI summaries were used to better understand customer retention trends and support potential business strategies aimed at improving customer loyalty and reducing churn risk.
+
+**Charts:**  
+
+![Q7](./Images/Q7A.png)
+![Q7](./Images/Q7B.png)
 
 ---
 
