@@ -24,7 +24,17 @@ The dataset was cleaned, processed, and analyzed using exploratory data analysis
 
 ---
 
-# Key Business Questions Analyzed
+## Table Of Contents
+1. Key Insights Business Questions Analyzed
+2. Features of the Project
+3. Technologies Used
+4. Workflow
+5. Key Learnings
+6. Project Outcome 
+
+---
+
+# Key Insight Business Questions Analyzed
 
 ## Q1: Who are our most valuable customers?
 
@@ -122,6 +132,22 @@ Used as the development environment for performing analysis, visualizing results
 
 ---
 
+##  Workflow
+1. **Raw Data** → [Kaggle Dataset: Retail Sales Dataset](https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset/data)  
+2. **Data Cleaning & Preprocessing** → Performed in Python (Pandas) to handle missing values, fix formatting, and prepare data for analysis.  
+3. **Exploratory Data Analysis (EDA)** → Conducted in Python using Pandas for aggregations and Matplotlib/Seaborn for identifying trends and patterns.  
+4. **Visualization & Storytelling** → Built charts with Matplotlib and Seaborn to present insights in a clear, business-focused manner.
+
+---
+
+#  Key Learnings
+- Handling missing and inconsistent data using **Pandas**.  
+- Structuring cleaned datasets for **efficient analysis and aggregation**.  
+- Applying **EDA techniques** to uncover trends and patterns.  
+- Creating **visualizations with Matplotlib & Seaborn** to communicate business insights.
+
+---
+  
 # Project Outcome 
 
 The project demonstrates how data analytics can be used to solve real-world retail business problems by transforming raw transactional data into actionable business insights. The analysis highlights customer purchasing trends, identifies high-risk customers, and provides strategic recommendations that can support customer retention and revenue optimization efforts.
